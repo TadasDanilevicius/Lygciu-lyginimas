@@ -97,7 +97,6 @@ int ElementuSkaicius(string junginys, string simbolis)
     int elementoKiekis = 0;
     junginys = junginys.Replace("[", "(");
     junginys = junginys.Replace("]", ")");
-    char[] charai = junginys.ToCharArray();
     int skaicius;
     while(true)
     {
