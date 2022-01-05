@@ -5,6 +5,9 @@ tai yra Console aplikacija, kuri gali išlyginti cheminių reakcijų lygtis.
 1) junginiai yra atskiriami pliusais '+', o reakcijos rodyklė užrašoma ženklu '=>'  
 2) junginių viduje negali būti tarpų  
 <br>Reakcijų pavyzdžiai duoti faile 'reakcijos.txt'
+<br>
+
+![alt text](https://github.com/TadasDanilevicius/Lygciu-lyginimas/blob/master/Console%20screen.png)
 
 # Kaip Veikia programa
 1) Programa atpažįsta reakcijoje dalivaujančius elementus ir sudeda į 'List\<string\> elementai' (Elementai eina iš kairės žiūrint į reakcijos lygtį).
