@@ -1,8 +1,8 @@
 # Lygciu lyginimas
-tai yra Console aplikacija, kuri gali išlyginti cheminių reakcijų lygtis. 
+Lygciu lyginimas.exe tai yra Console aplikacija, kuri gali išlyginti cheminių reakcijų lygtis. 
 
 # Naudojimosi taisyklės
-1) Kad programa veiktų, kompiuteryje turi būti įdiegta .NET 6.0 aplinka. Ją parsisiųsti galima <a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0">čia</a> 
+1) Programa veikia ant visų operacinių sistemų, tik reikia turėti įsidiegus .NET 6.0 aplinka. Ją parsisiųsti galima <a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0">čia</a> 
 2) Rašant reakcijų lygtis junginiai turi būti atskiriami pliusais '+', o reakcijos rodyklė užrašoma ženklu '=>'  
 3) junginių viduje negali būti tarpų  
 <br>Reakcijų pavyzdžiai duoti faile 'reakcijos.txt'
